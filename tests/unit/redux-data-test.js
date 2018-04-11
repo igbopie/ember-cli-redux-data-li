@@ -1,5 +1,5 @@
 
-import reduxData from 'ember-cli-redux-data';
+import reduxData from 'redux-data-li';
 import { module, test } from 'qunit';
 
 module('Unit | Addon ');
