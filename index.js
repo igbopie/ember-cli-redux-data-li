@@ -9,7 +9,7 @@ module.exports = {
       app = app.app;
     }
 
-    app.import('node_modules/redux-data-li/lib/index.js', {
+    app.import('node_modules/redux-data-li/dist/index.js', {
       using: [
         { transformation: 'cjs', as: 'redux-data-li'}
       ]
