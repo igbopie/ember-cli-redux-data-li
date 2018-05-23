@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-redux-data-li",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^6.12.0",
-    "redux-data-li": "^0.0.7"
+    "redux-data-li": "0.0.7"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
