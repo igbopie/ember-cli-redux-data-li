@@ -23,7 +23,7 @@
     "redux-data-li": "^0.1.1"
   },
   "devDependencies": {
-    "broccoli-asset-rev": "^2.4.5",
+    "broccoli-asset-rev": "^3.0.0",
     "ember-ajax": "^3.0.0",
     "ember-browserify": "^1.2.2",
     "ember-cli": "~2.18.2",
