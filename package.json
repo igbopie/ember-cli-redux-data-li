@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^7.0.0",
-    "redux-data-li": "^0.1.1"
+    "redux-data-li": "^0.2.0"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^3.0.0",
